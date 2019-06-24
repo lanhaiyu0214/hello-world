@@ -1,2 +1,3 @@
 # hello-world
-Commit the first project, it is just for test.
+Hi everyone.
+I am Alan, come from China, and I am a developer.
